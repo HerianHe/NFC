@@ -1,0 +1,6 @@
+
+UART接口(2):27脚 RX
+|-----------28脚 TX
+GPIO:		38脚 RSTPDN (低电平关闭电流源,震荡,并解除引脚的连接,进入hard power down模式)
+VCC:		40脚 VBAT 和 23脚 PVDD
+GND:		各种VSS
